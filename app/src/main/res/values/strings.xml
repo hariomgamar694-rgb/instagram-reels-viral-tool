@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">HR Viral AI</string>
+    <string name="tagline">Create Smarter. Grow Organically.</string>
+    <string name="tagline_hi">स्मार्ट बनाएं। ऑर्गेनिक रूप से बढ़ें।</string>
+
+    <!-- Navigation -->
+    <string name="nav_home">Home</string>
+    <string name="nav_audio">Audio</string>
+    <string name="nav_hashtags">Hashtags</string>
+    <string name="nav_ai_writer">AI Writer</string>
+    <string name="nav_coach">Growth Coach</string>
+    <string name="nav_timing">Best Time</string>
+    <string name="nav_analytics">Analytics</string>
+    <string name="nav_saved">Saved</string>
+    <string name="nav_profile">Profile</string>
+
+    <!-- Sections -->
+    <string name="section_trend_updates">Today\'s Trend Updates</string>
+    <string name="section_trending_audio">Trending Audio</string>
+    <string name="section_hashtag_gen">Hashtag Generator</string>
+    <string name="section_ai_captions">AI Caption &amp; Script Writer</string>
+    <string name="section_growth_coach">Reel Growth Coach</string>
+    <string name="section_posting_time">Best Posting Time</string>
+    <string name="section_analytics">Growth Analytics</string>
+    <string name="section_saved">Saved Vault</string>
+    <string name="section_settings">Profile &amp; Settings</string>
+
+    <!-- Actions -->
+    <string name="action_generate">Generate with AI</string>
+    <string name="action_copy_all">Copy All</string>
+    <string name="action_copy_selected">Copy Selected</string>
+    <string name="action_regenerate">Regenerate</string>
+    <string name="action_save">Save</string>
+    <string name="action_saved">Saved</string>
+    <string name="action_retry">Retry</string>
+    <string name="action_refresh">Refresh</string>
+    <string name="action_open_instagram">Open on Instagram</string>
+
+    <!-- Statuses -->
+    <string name="status_verified_live">Verified Live Data</string>
+    <string name="status_public_source">Public Source</string>
+    <string name="status_admin_updated">Admin Updated</string>
+    <string name="status_ai_suggestion">AI Suggestion</string>
+
+    <!-- Disclaimers -->
+    <string name="disclaimer_audio">Audio trends are curated from public viral charts and creator reports. No algorithm guarantees virality.</string>
+    <string name="disclaimer_hashtags">Hashtags are algorithm-aligned suggestions, not guaranteed virality tickets.</string>
+    <string name="disclaimer_posting_time">Estimates based on aggregated peak active creator and audience behavior in India / Global IST.</string>
+</resources>

@@ -1,0 +1,6 @@
+{
+  "name": "HR Viral AI",
+  "description": "Create Smarter. Grow Organically. AI-powered trending audio discovery, viral reel hooks and scripts, smart hashtags, caption writer, and growth coach for creators.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
